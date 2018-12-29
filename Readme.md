@@ -2,7 +2,7 @@
 * 客户端通讯例子  
 
 web地址：http://www.zhoti.com/witnet/Wsconnect/index  
-ws通讯地址： ws.zhoti.com
+ws通讯地址： ws.zhoti.com  
 ws通讯端口： 9393  
   
   

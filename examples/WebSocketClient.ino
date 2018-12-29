@@ -15,7 +15,7 @@ String ssidList;
 String client_id; // ws客户端ID
 
 char path[] = "/";
-char host[] = "192.168.31.100";
+char host[] = "ws.zhoti.com";
 
 DNSServer dnsServer;
 ESP8266WebServer webServer(80);
